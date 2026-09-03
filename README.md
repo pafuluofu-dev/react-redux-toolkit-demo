@@ -2,7 +2,7 @@
 
 A small React application built with Vite and Redux Toolkit to demonstrate modern Redux patterns in a user management flow.
 
-**Live demo:** https://erix319.github.io/react-redux-toolkit-demo/
+**Live demo:** https://pafuluofu-dev.github.io/react-redux-toolkit-demo/
 
 ## Features
 
